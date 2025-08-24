@@ -33,9 +33,9 @@ The indexed BAM files were checked for the quality using qualimap and the aligne
 The differential gene expression analysis was done in R with DESeq2 package. The analysis was done on google collab the Notebook is attached here in this repository. 
 reference for the analysis: https://erilu.github.io/bulk-rnaseq-analysis/#Obtaining_raw_data_from_GEO
 
-I have attached the scripts and some of the results in this repository. I will also attach my conda enviroment .yaml file for version control. The analysis was done using 2 conda environments 1 for qc and 1 for the RNA seq analysis.
+I have attached the scripts and some of the results in this repository. I will also attach my conda enviroment .yml file for version control. The analysis was done using 2 conda environments 1 for qc and 1 for the RNA seq analysis.
 
-To create and use the environment with my .yaml files use this following base command:
+To create and use the environment with my .yml files use this following base command:
 
 conda env create -f environment.yml
 
