@@ -1,0 +1,21 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content	Per Tile Sequence Quality
+SRR7179504_pass	1	1	1	0.25	1	1	1	0.25	0.5	1	0
+SRR7179505_pass	1	1	1	0.25	1	1	1	0.25	0.5	1	0
+SRR7179506_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179507_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179508_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179509_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179510_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179511_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179520_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179521_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179522_pass	1	1	1	0.25	1	1	1	0.25	0.5	1	0
+SRR7179523_pass	1	1	1	0.25	1	1	1	0.25	0.5	1	0
+SRR7179524_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179525_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179526_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179527_pass	1	1	1	0.25	0.5	1	1	0.25	0.5	1	0
+SRR7179536_pass	1	1	1	0.25	0.25	1	1	0.25	0.25	1	1
+SRR7179537_pass	1	1	1	0.25	0.25	1	1	0.25	0.25	1	1
+SRR7179540_pass	1	1	1	0.25	0.25	1	1	0.25	0.25	1	0.25
+SRR7179541_pass	1	1	1	0.25	0.25	1	1	0.25	0.25	1	0.25
