@@ -36,9 +36,10 @@ reference for the analysis: https://erilu.github.io/bulk-rnaseq-analysis/#Obtain
 I have attached the scripts and some of the results in this repository. I will also attach my conda enviroment .yml file for version control. The analysis was done using 2 conda environments 1 for qc and 1 for the RNA seq analysis.
 
 To create and use the environment with my .yml files use this following base command:
-
-conda env create -f environment.yml
-
+```
+    conda env create -f environment.yml
+```
+files are in env folder
 
 ##### EXTRA INFO:
 This analysis was done in Anaconda3 with 8Gb ram and i5 7200u processor (@ 3.10 GHz) in ubuntu 25.04 plucky OS 
