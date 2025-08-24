@@ -1,0 +1,9 @@
+sample_id,cell_line,condition,replicate
+LNCAP_Hypoxia_S1,LNCAP,Hypoxia,1
+LNCAP_Hypoxia_S2,LNCAP,Hypoxia,1
+LNCAP_Normoxia_S1,LNCAP,Normoxia,1
+LNCAP_Normoxia_S2,LNCAP,Normoxia,1
+PC3_Hypoxia_S1,PC3,Hypoxia,1
+PC3_Hypoxia_S2,PC3,Hypoxia,1
+PC3_Normoxia_S1,PC3,Normoxia,1
+PC3_Normoxia_S2,PC3,Normoxia,1
