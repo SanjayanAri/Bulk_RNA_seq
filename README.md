@@ -34,8 +34,8 @@ The differential gene expression analysis was done in R with DESeq2 package. The
 
 reference for the analysis: https://erilu.github.io/bulk-rnaseq-analysis/#Obtaining_raw_data_from_GEO
 
-
-I have attached the scripts and some of the results in this repository. I will also attach my conda enviroment .yml file for version control. The analysis was done using 2 conda environments 1 for qc and 1 for the RNA seq analysis.
+#### Versions and environments
+I have attached the scripts and some of the results in this repository. I will also attach my conda enviroment .yml file for version control. The analysis was done using 2 conda environments 1 for qc and 1 for the RNA seq analysis. 
 
 To create and use the environment with my .yml files use this following base command:
 ```
