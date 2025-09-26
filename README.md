@@ -46,6 +46,3 @@ files are in env folder
 ##### EXTRA INFO:
 This analysis was done in Anaconda3 with 8Gb ram and i5 7200u processor (@ 3.10 GHz) in ubuntu 25.04 plucky OS 
 It took ~2.5 hr to get the fastq file and 8 hours to do the alignment. Qualimap sometimes fails as more RAM is needed. 
-
-
-This was done in workshop for RNA seq conducted by Smriti Arora, I am thank full for her mentorship and this workshop.  
